@@ -1,4 +1,11 @@
+# CSS docs
+* https://doka.guide/css/
+* https://html5css.ru/cssref/default.php
+* https://html5book.ru/css-spravochnik.html
+
 # CSS courses
+* https://html5css.ru/css/default.php
+* https://html5book.ru/css-css3/
 * https://ru.code-basics.com/languages/css
 * https://htmlacademy.ru/courses
 
