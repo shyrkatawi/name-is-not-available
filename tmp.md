@@ -7,3 +7,7 @@ https://habr.com/ru/post/450528/<br>
 * сайт с теорией и практикой по SQL (разделён на 2 части) p.s. решения можно найти на ютюбере<br>
 http://www.sql-tutorial.ru/<br>
 https://www.sql-ex.ru/<br>
+
+<br>
+
+https://github.com/Hexlet/ru-test-assignments
