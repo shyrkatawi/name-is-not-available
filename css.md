@@ -17,3 +17,6 @@
 * flexbox adventure https://codingfantasy.com/games/flexboxadventure
 * grid attack, от тех же разрабов что и flexbox adventure, но уже платная https://codingfantasy.com/games/css-grid-attack
 * css battle тут туториалов вроде как нет, тут число онлайн соревноване https://cssbattle.dev/
+
+# CSS interview preparation
+* приоритеты стилей https://ru.code-basics.com/languages/css/lessons/priority
