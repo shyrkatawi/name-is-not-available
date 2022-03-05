@@ -20,3 +20,4 @@
 
 # CSS interview preparation
 * приоритеты стилей https://ru.code-basics.com/languages/css/lessons/priority
+* позиционирование https://ru.code-basics.com/languages/css/lessons/position
