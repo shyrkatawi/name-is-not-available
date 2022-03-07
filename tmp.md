@@ -13,3 +13,5 @@ https://www.sql-ex.ru/<br>
 https://github.com/Hexlet/ru-test-assignments
 <br>
 https://www.youtube.com/watch?v=7je1ygc9Gew
+<br>
+какие то react icons для svg иконок
