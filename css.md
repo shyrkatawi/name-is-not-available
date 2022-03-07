@@ -10,7 +10,7 @@
 * https://htmlacademy.ru/courses
 
 # CSS games
-* css diner https://flukeout.github.io/
+* css diner https://flukeout.github.io/ помогает понять селекторы
 * flexbox froggy https://flexboxfroggy.com/
 * flexbox grid-garden https://cssgridgarden.com/
 * flexbox defense http://www.flexboxdefense.com/
