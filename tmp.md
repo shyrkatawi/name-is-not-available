@@ -15,3 +15,5 @@ https://github.com/Hexlet/ru-test-assignments
 https://www.youtube.com/watch?v=7je1ygc9Gew
 <br>
 какие то react icons для svg иконок
+<br>
+http://code.mu
