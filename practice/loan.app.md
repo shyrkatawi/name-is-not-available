@@ -30,3 +30,5 @@
 <br>Backend: NodeJS
 <br>Database: MongoDB
 <br>Host: Heroku (or any free), Mongo - official free sandbox
+<br>
+<br> токен https://livecodestream.dev/post/a-practical-guide-to-jwt-authentication-with-nodejs/
